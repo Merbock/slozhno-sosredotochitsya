@@ -103,6 +103,7 @@
   color: var(--title-color);
   cursor: pointer;
   padding-bottom: 2px;
+  transition: border var(--transition-duration);
 }
 
 .header__theme-menu-button:hover {
@@ -270,6 +271,7 @@
   text-shadow: 2px 2px 0 var(--text-background-color);
   display: inline-block;
   border-bottom: 2px solid transparent;
+  transition: border var(--transition-duration);
 }
 
 .section-link:hover {

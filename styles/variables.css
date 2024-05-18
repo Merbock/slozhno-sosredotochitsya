@@ -10,4 +10,5 @@
   --text-background-color: var(--main-title-shadow);;  
   --hover-color: #ff91c1;  
   --background-image: url(../images/cover-image-dark.png);
+  --transition-duration: 0.3s;
 }
