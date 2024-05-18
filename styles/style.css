@@ -295,6 +295,10 @@
   margin-block-end: 20px;
 }
 
+.gallery__title {
+  margin-block-end: 10px;
+}
+
 @media (min-width: 768px) {
   .gallery__title {
     margin-block-end: 20px;
@@ -358,7 +362,7 @@
 
 @media (min-width: 1024px) {
   .footer {
-    padding: 319px 20px;
+    padding: 317px 20px;
     text-align: center;
   }
 }
