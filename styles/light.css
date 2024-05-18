@@ -10,6 +10,7 @@
   --hover-color: #ada5a6;
   --background-image: url(../images/cover-image-light.png);
   --transition-duration: 0.3s;
+  --display-rec: none;
 }
 
 @media (prefers-color-scheme: light) {
@@ -25,5 +26,6 @@
     --hover-color: #ada5a6;
     --background-image: url(../images/cover-image-light.png);
     --transition-duration: 0.3s;
+    --display-rec: none;
   }
 } 

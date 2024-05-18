@@ -11,4 +11,5 @@
   --hover-color: #ff91c1;  
   --background-image: url(../images/cover-image-dark.png);
   --transition-duration: 0.3s;
+  --display-rec: block;
 }
